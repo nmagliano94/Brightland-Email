@@ -1,0 +1,96 @@
+<mjml>
+  <mj-head>
+    <mj-title>Brightland</mj-title>
+    <mj-preview>New updates!</mj-preview>
+    <mj-attributes>
+      <mj-all align="center" color="#000" font-family="Helvetica, sans-serif" />
+      <mj-section background-color="#fff" />
+      <mj-image padding="0" />
+      <!--CUSTOM CLASSES -->
+      <mj-class name="btn" align="center" font-size="18px" font-weight="400" background-color="#fff" color="#000" border="1px solid #000" letter-spacing="5px" text-transform="uppercase" border-radius="0" inner-padding="18px 40px" padding-top="45px" />
+    </mj-attributes>
+    <mj-style> .menu-link { text-decoration: none; color: #000000; } </mj-style>
+  </mj-head>
+  <mj-body background-color="#eee" width="600px">
+    <!-- START OF EMAIL -->
+    <!-- StART OF HEADER -->
+    <mj-section background-color="#F5BD00">
+      <mj-column>
+        <mj-text font-size="22px" letter-spacing="8px" text-transform="uppercase" font-weight="400" padding-top="35px">Brightland</mj-text>
+        <mj-text font-size="50px" font-weight="600" padding="30px" align="left">Made By You,</mj-text>
+        <mj-image src="https://i.postimg.cc/3xJDN1QD/header-img.png" width="540px" alt="spaghetti in a bowl" />
+        <mj-text font-size="50px" font-weight="600" padding="30px 30px 0 30px" align="right">Loved By Us.</mj-text>
+        <mj-button mj-class="btn" href="https://brightland.co/" target="_blank" padding-bottom="40px">Explore Brightland</mj-button>
+      </mj-column>
+    </mj-section>
+    <!-- END OF HEADER -->
+    <mj-section background-color="#fff">
+      <mj-column>
+        <mj-text font-size="20px" line-height="32px" padding-top="22px" padding-bottom="5px">Let's hear it for the gorgeous plates our community has cooked up with Brightland - compliments to the chefs!</mj-text>
+      </mj-column>
+    </mj-section>
+    <!-- START OF IMAGE SECTION -->
+    <mj-section background-color="#fff">
+      <mj-column>
+        <mj-image src="https://i.postimg.cc/xjMm4qPq/img-line1.png" width="480px" alt="customers work shown on Instagram"></mj-image>
+        <mj-image src="https://i.postimg.cc/xTQmDYs5/img-line2.png" width="480px" padding-top="20px" alt="customers work shown on Instagram"></mj-image>
+        <mj-image src="https://i.postimg.cc/dt9yJXpY/img-line3.png" width="480px" padding-top="22px" padding-bottom="25px" alt="customers work shown on Instagram"></mj-image>
+      </mj-column>
+    </mj-section>
+    <!--END OF IMAGE SECTION -->
+    <!-- START OF ESSENTIALS SECTION -->
+    <mj-wrapper background-color="#F9F9F9" padding="45px 60px ">
+      <mj-section background-color="#F5BD00" padding="10px 0px 10px 0px">
+        <mj-column>
+          <mj-text padding="0" text-transform="uppercase" font-size="20px" font-weight="600" letter-spacing="1.5px" line-height="26px">create your own culinary masterpieces with the essentials</mj-text>
+        </mj-column>
+      </mj-section>
+    </mj-wrapper>
+    <mj-section background-color="#F9F9F9">
+      <mj-column>
+        <mj-image src="https://i.postimg.cc/NF6r9P0R/bottles.png" width="400px" alt="assorted Brighton olive oil bottles" />
+        <mj-text font-size="16px" font-style="italic" line-height="26px" font-weight="600" padding-bottom="0" padding-top="20px">The perfect foursome of essentials<br>to round out any kitchen.</mj-text>
+        <mj-button mj-class="btn" href="https://brightland.co/products/essentialcapsule" target="_blank">Get The Essential Capsule</mj-button>
+      </mj-column>
+    </mj-section>
+    <!-- END OF ESSENTIALS SECTION -->
+    <!--START OF MENU SECTION -->
+    <mj-section background-color="#fff" padding="50px 40px 20px 40px">
+      <mj-column>
+        <mj-image src="https://i.postimg.cc/L5K1sMmH/heart-made.png" width="300px" alt="made with love in california" padding-bottom="30px"></mj-image>
+        <mj-divider border-width="1px" />
+        <mj-text font-size="16px" font-weight="300" text-transform="uppercase" letter-spacing="3px" align="left" padding-top="18px" padding-bottom="18px"><a href="https://brightland.co/blogs/recipes" class="menu-link" target="_blank">Recipes</a></mj-text>
+        <mj-divider border-width="1px" />
+        <mj-text font-size="16px" font-weight="300" text-transform="uppercase" letter-spacing="3px" align="left" padding-top="18px" padding-bottom="18px"><a href="https://brightland.co/pages/about-brightland-olive-oil" class="menu-link" target="_blank">About Us</a></mj-text>
+        <mj-divider border-width="1px" />
+        <mj-text font-size="16px" font-weight="300" text-transform="uppercase" letter-spacing="3px" align="left" padding-top="18px" padding-bottom="18px"><a href="https://brightland.co/pages/faqs-olive-oil" class="menu-link" target="_blank">FAQ'S</a></mj-text>
+        <mj-divider border-width="1px" />
+      </mj-column>
+    </mj-section>
+    <!-- END OF MENU SECTION -->
+    <!-- START OF SOCIALS -->
+    <mj-section background-color="#fff" padding-bottom="0">
+      <mj-column>
+        <mj-social icon-size="40px" mode="horizontal" border-radius="8px">
+          <mj-social-element name="facebook" href="https://www.facebook.com/WeAreBrightland/" target="_blank" background-color="#000" padding="40px"></mj-social-element>
+          <mj-social-element name="pinterest" href="https://www.pinterest.com/brightlandoliveoil/" target="_blank" background-color="#000" padding="40px"></mj-social-element>
+          <mj-social-element name="instagram" href="https://www.instagram.com/wearebrightland/" target="_blank" background-color="#000" padding="40px"></mj-social-element>
+          <mj-social-element href="https://www.tiktok.com/@wearebrightland" target="_blank" src="https://static.vecteezy.com/system/resources/previews/018/930/574/original/tiktok-logo-tikok-icon-transparent-tikok-app-logo-free-png.png" background-color="#000" padding="40px"></mj-social-element>
+        </mj-social>
+      </mj-column>
+    </mj-section>
+    <!-- END OF SOCIALS -->
+    <!-- START OF FOOTER -->
+    <mj-section padding-top="0" padding-bottom="0" background-color="#fff">
+      <mj-column>
+        <mj-text align="center" line-height="18px">
+          <p style="color:#BBBAB8; font-size:14px;">Brightland &copy 2024 All Rights Reserved</p>
+          <p style="color:#BBBAB8; font-size: 14px;">No longer want to recieve these emails? <a href="#" target="_blank" style="text-decoration:underline; color:#BBBAB8">Unsubscribe</a></p>
+          <p style="color:#BBBAB8; font-size:11px; margin-top:30px;">BRIGHTLAND 719 South Los Angeles, California 90014</p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!-- END OF FOOTER -->
+    <!-- END OF EMAIL -->
+  </mj-body>
+</mjml>
